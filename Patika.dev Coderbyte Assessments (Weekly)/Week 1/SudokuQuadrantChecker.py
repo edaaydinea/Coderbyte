@@ -38,6 +38,8 @@ Input: ["(1,2,3,4,5,6,7,8,1)",
         "(x,x,x,x,x,x,x,x,x)",
         "(x,x,x,x,x,x,x,x,x)"]
 Output: 1,3,4
+
+Author: Eda AYDIN
 """
 def SudokuQuadrantChecker(strArr):
 

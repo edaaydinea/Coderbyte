@@ -12,6 +12,7 @@ Output: true
 Input: 110
 Output: false
 
+Author: Eda AYDIN
 """
 
 

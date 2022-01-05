@@ -7,7 +7,10 @@ Input: "Hello World"
 Output: 7
 
 Input: "Alphabets"
-Output: 6 """
+Output: 6 
+
+Author: Eda AYDIN
+"""
 
 import re
 
