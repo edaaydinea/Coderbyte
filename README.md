@@ -6,7 +6,7 @@
 
 # CoderByte | Practice, Tutorials & Interview Preparation Solutions
 
-This repository consists of solutions to CoderByte **practice**, **tutorials**, and **interview preparation** problems with **Python**, **mySQL**, **C++**, and **Java**.
+This repository consists of solutions to CoderByte **practice**, **tutorials**, and **interview preparation** problems with **Python**, **SQL**, **C++**, and **Java**.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/edaaydinea/Coderbyte)](https://github.com/edaaydinea/Coderbyte/commits/master)
 [![GitHub repo size](https://img.shields.io/github/repo-size/edaaydinea/Coderbyte)](https://github.com/edaaydinea/Coderbyte/archive/master.zip)
