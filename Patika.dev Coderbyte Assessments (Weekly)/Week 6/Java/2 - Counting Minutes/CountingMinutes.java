@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-class Main {
+class CountingMinutes {
 
     static final int MINUTES_IN_HOUR = 60;
     static final int MINUTES_IN_DAY = 24 * 60;
 
-    static int CountingMinutes(String str){
+    static int countingMinutes(String str){
         String[] times = str.split("-");
 
         int start = getMinuteofDay(times[0]);
@@ -30,7 +30,7 @@ class Main {
     public static void main (String[] args) {
         // keep this function call here
         Scanner s = new Scanner(System.in);
-        System.out.print(CountingMinutes(s.nextLine()));
+        System.out.print(countingMinutes(s.nextLine()));
     }
 
 }

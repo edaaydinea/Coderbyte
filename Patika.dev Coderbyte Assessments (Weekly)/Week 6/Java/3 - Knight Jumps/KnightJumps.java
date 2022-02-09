@@ -1,9 +1,8 @@
 import java.util.*;
-import java.io.*;
 
-class Main {
+class KnightJumps {
 
-    public static int KnightJumps(String str) {
+    public static int knightJumps(String str) {
         // code goes here
         int x = Integer.parseInt(String.valueOf(str.charAt(1)));
         int y = Integer.parseInt(String.valueOf(str.charAt(3)));
@@ -24,7 +23,7 @@ class Main {
     public static void main (String[] args) {
         // keep this function call here
         Scanner s = new Scanner(System.in);
-        System.out.print(KnightJumps(s.nextLine()));
+        System.out.print(knightJumps(s.nextLine()));
     }
 
 }

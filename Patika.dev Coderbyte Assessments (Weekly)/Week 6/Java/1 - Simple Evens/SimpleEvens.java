@@ -1,8 +1,8 @@
 import java.util.*;
 
-class Main {
+class SimpleEvens {
 
-    public static String SimpleEvens(String num) {
+    public static String simpleEvens(String num) {
         // code goes here
         String[] digits = num.split("");
 
@@ -17,7 +17,7 @@ class Main {
     public static void main (String[] args) {
         // keep this function call here
         Scanner s = new Scanner(System.in);
-        System.out.println(SimpleEvens(s.nextLine()));
+        System.out.println(simpleEvens(s.nextLine()));
     }
 
 }
