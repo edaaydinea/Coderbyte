@@ -20,7 +20,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
 
 
 <details>
-    <summary> <h2 align = "center">Patika.dev Coderbyte Assessments</h2></summary>
+    <summary> <h2 align = "center">Patika.dev - Coderbyte Coding Assessment Solutions</h2></summary>
     <table style="margin-top:30px; width:882; table-layout: fixed" class="mt-4">
         <thead>
           <tr>
