@@ -196,7 +196,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
                 <td rowspan="6">Week 6</td>
                 <td rowspan="2">Easy</td>
                 <td>Python</td>
-                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%204/Python/1%20-%20Simple%20Evens.py" target="_blank" rel="noopener noreferrer">Simple Evens</a></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%206/Python/1%20-%20%20Simple%20Evens.py" target="_blank" rel="noopener noreferrer">Simple Evens</a></td>
                 <td>10</td>
             </tr>
             <tr>
