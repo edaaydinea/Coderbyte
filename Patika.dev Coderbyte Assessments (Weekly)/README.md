@@ -207,7 +207,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
             <tr>
                 <td rowspan="2">Medium</td>
                 <td>Python</td>
-                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%204/Python/2%20-%20Counting%20Minutes.py" target="_blank" rel="noopener noreferrer">Counting Minutes</a></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%206/Python/2%20-%20Counting%20Minutes.py" target="_blank" rel="noopener noreferrer">Counting Minutes</a></td>
                 <td>10</td>
             </tr>
             <tr>
