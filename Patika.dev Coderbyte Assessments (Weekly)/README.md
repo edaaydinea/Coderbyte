@@ -19,9 +19,8 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
 [View Profile](https://coderbyte.com/profile/edaaydinea)
 
 
-<details>
-    <summary> <h2 align = "center">Patika.dev - Coderbyte Coding Assessment Solutions</h2></summary>
-    <table style="margin-top:30px; width:882; table-layout: fixed" class="mt-4">
+<h2 align = "center">Patika.dev - Coderbyte Coding Assessment Solutions</h2>
+    <table style="width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" class="mt-4">
         <thead>
           <tr>
             <th>WEEK</th>
