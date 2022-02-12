@@ -19,9 +19,8 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
 [View Profile](https://coderbyte.com/profile/edaaydinea)
 
 
-<details>
-    <summary> <h2 align = "center">Patika.dev - Coderbyte Coding Assessment Solutions</h2></summary>
-    <table style="margin-top:30px; width:882; table-layout: fixed" class="mt-4">
+<h2 align = "center">Patika.dev - Coderbyte Coding Assessment Solutions</h2>
+    <table style="width: 100%; border-collapse: collapse; margin-left: auto; margin-right: auto;" class="mt-4">
         <thead>
           <tr>
             <th>WEEK</th>
@@ -197,7 +196,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
                 <td rowspan="6">Week 6</td>
                 <td rowspan="2">Easy</td>
                 <td>Python</td>
-                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%204/Python/1%20-%20Simple%20Evens.py" target="_blank" rel="noopener noreferrer">Simple Evens</a></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%206/Python/1%20-%20%20Simple%20Evens.py" target="_blank" rel="noopener noreferrer">Simple Evens</a></td>
                 <td>10</td>
             </tr>
             <tr>
@@ -208,7 +207,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
             <tr>
                 <td rowspan="2">Medium</td>
                 <td>Python</td>
-                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%204/Python/2%20-%20Counting%20Minutes.py" target="_blank" rel="noopener noreferrer">Counting Minutes</a></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%206/Python/2%20-%20Counting%20Minutes.py" target="_blank" rel="noopener noreferrer">Counting Minutes</a></td>
                 <td>10</td>
             </tr>
             <tr>
