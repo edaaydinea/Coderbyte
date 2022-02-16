@@ -226,6 +226,40 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
                 <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%206/Java/3%20-%20Knight%20Jumps/KnightJumps.java" target="_blank" rel="noopener noreferrer">Knight Jumps</a></td>
                 <td>15</td>
             </tr>
+<!-- Week 7-->
+            <tr>
+                <td rowspan="6">Week 7</td>
+                <td rowspan="2">Easy</td>
+                <td>Python</td>
+                <td><a href="hhttps://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/1%20-%20Happy%20Numbers.py" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td><a href="" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Medium</td>
+                <td>Python</td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/2%20-%20Fibonacci%20Checker.py" target="_blank" rel="noopener noreferrer">Fibonacci Checker</a></td>
+                <td>10</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td><a href="" target="_blank" rel="noopener noreferrer">Fibonacci Checker</a></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td rowspan="2">Hard</td>
+                <td>Python</td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/3%20-%20Line%20Ordering.py" target="_blank" rel="noopener noreferrer">Line Ordering</a></td>
+                <td>15</td>
+            </tr>
+            <tr>
+                <td>Java</td>
+                <td><a href="" target="_blank" rel="noopener noreferrer">Line Ordering</a></td>
+                <td></td>
+            </tr>
         </tbody>
     </table>
-</details>
