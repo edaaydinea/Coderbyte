@@ -236,8 +236,8 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
             </tr>
             <tr>
                 <td>Java</td>
-                <td><a href="" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
-                <td></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/Java/1%20-%20Happy%20Number/Main.java" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
+                <td>10</td>
             </tr>
             <tr>
                 <td rowspan="2">Medium</td>
@@ -247,8 +247,8 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
             </tr>
             <tr>
                 <td>Java</td>
-                <td><a href="" target="_blank" rel="noopener noreferrer">Fibonacci Checker</a></td>
-                <td></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/Java/2%20-%20Fibonacci%20Checker/Main.java" target="_blank" rel="noopener noreferrer">Fibonacci Checker</a></td>
+                <td>10</td>
             </tr>
             <tr>
                 <td rowspan="2">Hard</td>
@@ -259,7 +259,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
             <tr>
                 <td>Java</td>
                 <td><a href="" target="_blank" rel="noopener noreferrer">Line Ordering</a></td>
-                <td></td>
+                <td>0</td>
             </tr>
         </tbody>
     </table>
