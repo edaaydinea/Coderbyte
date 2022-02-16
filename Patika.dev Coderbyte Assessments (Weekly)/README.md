@@ -231,7 +231,7 @@ This repository consists of solutions to CoderByte **practice**, **tutorials**, 
                 <td rowspan="6">Week 7</td>
                 <td rowspan="2">Easy</td>
                 <td>Python</td>
-                <td><a href="hhttps://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/1%20-%20Happy%20Numbers.py" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
+                <td><a href="https://github.com/edaaydinea/Coderbyte/blob/main/Patika.dev%20Coderbyte%20Assessments%20(Weekly)/Week%207/1%20-%20Happy%20Numbers.py" target="_blank" rel="noopener noreferrer">Happy Numbers</a></td>
                 <td>6</td>
             </tr>
             <tr>
