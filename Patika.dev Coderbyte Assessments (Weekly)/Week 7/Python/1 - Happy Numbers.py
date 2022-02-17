@@ -1,23 +1,17 @@
 def HappyNumbers(num):
     # code goes here
-    if num == 1 or num == 7:
+    result = 0
+
+    while num > 0:
+        result += (num % 10) ** 2
+        num = num // 10
+
+    if result == 1:
         return "true"
-
-    Sum, x, = num, num
-    while Sum > 9:
-        Sum = 0
-        while x > 0:
-            digit = x % 10
-            Sum += digit * digit
-            x = x // 10
-
-        if Sum == 1:
-            return "true"
+    elif result < 10:
         return "false"
-
-    if sum == 7:
-        return "true"
-    return "false"
+    else:
+        return HappyNumbers(result)
 
 
 # keep this function call here
